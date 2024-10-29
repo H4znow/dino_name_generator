@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+tensorflow = "*"
+numpy = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [dev-packages]
 ipykernel = "*"
